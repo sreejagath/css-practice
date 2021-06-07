@@ -1,3 +1,9 @@
 body {
   background: gray;
 }
+.title {
+  color: white;
+}
+.subtitle {
+  color: red;
+}
