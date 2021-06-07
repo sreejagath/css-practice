@@ -4,6 +4,12 @@ body {
 .title {
   color: white;
 }
+.title:hover {
+  color: red;
+}
 .subtitle {
   color: red;
+}
+li:nth-child(2) {
+  color: white;
 }
