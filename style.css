@@ -107,6 +107,7 @@ a:hover {
   line-height: 80px;
   margin-right: 40px;
   cursor: pointer;
+  display: none;
 }
 #check {
   display: none;
@@ -132,6 +133,11 @@ a:hover {
     left: -100%;
     text-align: center;
     transition: all .5s;
+  }
+  label.logo{
+    font-size: 30px;
+    display: flexbox;
+
   }
   nav ul li{
     display: block;
